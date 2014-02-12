@@ -1,0 +1,146 @@
+4-1
+
+Black Goose Bistro
+
+The Restaurant
+The Black Goose Bistro offers casual lunch and dinner fare in a hip atmospherse. The menu changes regularly to highlight the freshest ingredients.
+
+Catering
+You have fun… we’ll handle the cooking. Black Goose Catering can handle events from snacks for the bridge club to elegant corporate fundraisers.
+
+Location and Hours
+Seekonk, Massachusetts:
+Monday through Thursday 11am to 9pm, Friday and Saturday, 11am to midnight
+
+
+4-2
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset=“utf-8”>
+<title>Black Goose Bistro</title>
+</head>
+
+<body>
+
+Black Goose Bistro
+
+The Restaurant
+The Black Goose Bistro offers casual lunch and dinner fare in a hip atmospherse. The menu changes regularly to highlight the freshest ingredients.
+
+Catering
+You have fun . . . we'll handle the cooking. Black Goose Catering can handle events from snacks for the bridge club to elegant corporate fundraisers.
+
+Location and Hours
+Seekonk, Massachusetts:
+Monday through Thursday 11am to 9pm, Friday and Saturday, 11am to midnight
+</body>
+
+</html>
+
+4-3
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset=“utf-8”>
+<title>Black Goose Bistro</title>
+</head>
+
+<body>
+
+<h1>Black Goose Bistro</h1>
+
+<h2>The Restaurant</h2>
+<p>The Black Goose Bistro offers casual lunch and dinner fare in a hip atmospherse. The menu changes regularly to highlight the freshest ingredients.</p>
+
+<h3>Catering</h3>
+<p2>You have fun . . . <em>we'll handle the cooking</em>. Black Goose Catering can handle events from snacks for the bridge club to elegant corporate fundraisers.</p2>
+
+<h4>Location and Hours</h4>
+<p3>Seekonk, Massachusetts:
+Monday through Thursday 11am to 9pm, Friday and Saturday, 11am to midnight</p3>
+</body>
+
+</html>
+
+4-4
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset=“utf-8”>
+<title>Black Goose Bistro</title>
+</head>
+
+<body>
+
+<h1><img src="blackgoose.png" alt="Black Goose Logo"><br>Black Goose Bistro</h1>
+
+<h2>The Restaurant</h2>
+<p>The Black Goose Bistro offers casual lunch and dinner fare in a hip atmospherse. The menu changes regularly to highlight the freshest ingredients.</p>
+
+<h3>Catering</h3>
+<p2>You have fun . . . <em>we'll handle the cooking</em>. Black Goose Catering can handle events from snacks for the bridge club to elegant corporate fundraisers.</p2>
+
+<h4>Location and Hours</h4>
+<p3>Seekonk, Massachusetts:<br>
+Monday through Thursday 11am to 9pm,<br>Friday and Saturday,11am to midnight</p3>
+</body>
+
+</html>
+
+4-5
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset=“utf-8”>
+<title>Black Goose Bistro</title>
+<style>
+
+body {
+background-color: #faf2e4;
+margin: 0 15%;
+font-family: sans-serif;
+}
+
+h1 {text-align: center;
+font-family: serif;
+font-weight: normal;
+text-transformation: uppercase;
+border-bottom: 1px solid #57b1dc;
+margin-top: 30px;
+}
+
+h2 {
+color: #d1633c;
+font-size: 1em;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1><img src="blackgoose.png" alt="Black Goose Logo"><br>Black Goose Bistro</h1>
+
+<h2>The Restaurant</h2>
+<p>The Black Goose Bistro offers casual lunch and dinner fare in a hip atmospherse. The menu changes regularly to highlight the freshest ingredients.</p>
+
+<h3>Catering</h3>
+<p2>You have fun . . . <em>we'll handle the cooking</em>. Black Goose Catering can handle events from snacks for the bridge club to elegant corporate fundraisers.</p2>
+
+<h4>Location and Hours</h4>
+<p3>Seekonk, Massachusetts:<br>
+Monday through Thursday 11am to 9pm,<br>Friday and Saturday,11am to midnight</p3>
+</body>
+
+</html>
